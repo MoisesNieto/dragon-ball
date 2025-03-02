@@ -1,4 +1,4 @@
-# Proyecto Marvel - Clean Architecture
+# Proyecto Dragon ball - Clean Architecture
 
 Este proyecto es una aplicación web que utiliza la **Clean Architecture**  y se conecta a la **API de Dragon Ball** para mostrar información sobre personajes, transformaciones y más. Los usuarios puedes buscar ssus personajes favoritos.
 
