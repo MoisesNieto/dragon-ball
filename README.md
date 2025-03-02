@@ -1,6 +1,6 @@
 # Proyecto Dragon ball - Clean Architecture
 
-Este proyecto es una aplicación web que utiliza la **Clean Architecture**  y se conecta a la **API de Dragon Ball** para mostrar información sobre personajes, transformaciones y más. Los usuarios puedes buscar ssus personajes favoritos.
+Este proyecto es una aplicación web que utiliza la **Clean Architecture**  y se conecta a la **API de Dragon Ball** para mostrar información sobre personajes, transformaciones y más. Los usuarios puedes buscar sus personajes favoritos.
 
 ## Características
 
@@ -28,7 +28,7 @@ Este proyecto utiliza las siguientes tecnologías:
 ### 1
 
 ```bash
-git clone https://github.com/tu_usuario/marvel.git
-cd marvel
+git clone https://github.com/MoisesNieto/dragon-ball.git
+cd dragon-ball
 npm i
 npm run dev
