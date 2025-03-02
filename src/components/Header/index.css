@@ -1,0 +1,39 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: black;
+	width: 90%;
+	margin: 0 auto;
+	padding: 10px;
+}
+header {
+	background-color: black;
+}
+
+.header__logo {
+	display: flex;
+	align-items: center;
+	background-color: red;
+	padding: 10px;
+}
+
+.header__logo-image {
+	height: 40px;
+}
+
+.header__heart {
+	display: flex;
+	align-items: center;
+	color: white;
+}
+
+.header__heart {
+	font-size: 24px;
+	margin-right: 5px;
+}
+
+.header__favorite {
+	padding: 10px;
+	font-size: 18px;
+}

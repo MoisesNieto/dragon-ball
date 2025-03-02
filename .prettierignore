@@ -1,0 +1,18 @@
+# Ignorar archivos de configuración de Prettier, ESLint, Babel y Jest
+dist
+.babelrc
+.prettierrc
+eslint.config.js
+jest.config.cjs
+jest.setup.js
+package-lock.json
+package.json
+README.md
+# Ignorar archivos y directorios específicos de la aplicación
+
+# Ignorar archivos generados u otros que no deberían ser formateados
+index.html
+vite.config.js
+
+# Ignorar directorios de pruebas y archivos temporales
+__mocks__/

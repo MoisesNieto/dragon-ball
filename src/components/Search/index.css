@@ -1,0 +1,34 @@
+.search {
+	display: flex;
+	align-items: center;
+	border-bottom: 2px solid black;
+	padding: 5px 0;
+	width: 100%;
+	margin: 0 0 1rem 0;
+}
+
+.container-search {
+	display: flex;
+	flex-direction: column;
+	margin: 30px 0 0 0;
+}
+.result {
+	text-align: left;
+}
+.search__input {
+	border: none;
+	outline: none;
+	font-size: 16px;
+	padding: 5px;
+	flex: 1;
+	background-color: transparent;
+}
+
+.search__input::placeholder {
+	color: #999;
+}
+.search__icon {
+	font-size: 18px;
+	color: black;
+	margin-left: 10px;
+}
