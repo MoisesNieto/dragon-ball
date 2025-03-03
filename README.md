@@ -24,7 +24,6 @@ Este proyecto utiliza las siguientes tecnologías:
 
 ## Instalación
 
-
 ### 1
 
 ```bash
@@ -32,3 +31,4 @@ git clone https://github.com/MoisesNieto/dragon-ball.git
 cd dragon-ball
 npm i
 npm run dev
+npm run test
